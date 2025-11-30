@@ -55,3 +55,10 @@ To run the notebook, install the following Python packages:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 ```
+
+## 🚀 Run the Notebook in Google Colab
+
+You can open and run the analysis directly in Google Colab using the link below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/betklab/sales-analysis/blob/main/Analysis.ipynb)
+
